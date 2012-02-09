@@ -1,0 +1,17 @@
+*~
+.deps/
+.DS_Store
+aclocal.m4
+autom4te.cache/
+config.h
+config.h.in
+config.log
+config.status
+config/depcomp
+config/install-sh
+config/ltmain.sh
+config/missing
+configure
+m4/
+Makefile
+Makefile.in
